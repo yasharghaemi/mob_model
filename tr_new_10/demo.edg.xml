@@ -1,0 +1,35 @@
+<edges>
+<!-- horizontal edges -->
+    <edge id="E_0_1" from="IN0" to="IN1" type="2L10"/>
+    <edge id="E_1_0" from="IN1" to="IN0" type="2L10"/>
+
+    <edge id="E_1_2" from="IN1" to="IN2" type="2L10"/>
+    <edge id="E_2_1" from="IN2" to="IN1" type="2L10"/>
+
+    
+
+    <edge id="E_5_6" from="IN5" to="IN6" type="2L10"/>
+    <edge id="E_6_5" from="IN6" to="IN5" type="2L10"/>
+
+    <edge id="E_6_7" from="IN6" to="IN7" type="2L10"/>
+    <edge id="E_7_6" from="IN7" to="IN6" type="2L10"/>
+
+    
+<!-- Vertical edges -->
+    <edge id="E_0_3" from="IN0" to="IN3" type="2L10"/>
+    <edge id="E_3_0" from="IN3" to="IN0" type="2L10"/>
+
+    <edge id="E_2_4" from="IN2" to="IN4" type="2L10"/>
+    <edge id="E_4_2" from="IN4" to="IN2" type="2L10"/>
+
+    
+
+    <edge id="E_3_5" from="IN3" to="IN5" type="2L10"/>
+    <edge id="E_5_3" from="IN5" to="IN3" type="2L10"/>
+
+    <edge id="E_4_7" from="IN4" to="IN7" type="2L10"/>
+    <edge id="E_7_4" from="IN7" to="IN4" type="2L10"/>
+
+   
+   
+</edges>

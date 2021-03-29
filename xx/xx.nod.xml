@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nodes>
+  <node id="0" type="traffic_light" x="0.0" y="0.0" />
+  <node id="1" type="traffic_light" x="0.0" y="2000.0" />
+  <node id="2" type="traffic_light" x="2000.0" y="0.0" />
+  <node id="3" type="traffic_light" x="2000.0" y="2000.0" />
+</nodes>

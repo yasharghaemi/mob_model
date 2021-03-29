@@ -1,0 +1,9 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+           <net-file value="demo.net.xml"/>
+        <route-files value="demo.rou.xml"/>
+    </input>
+
+
+</configuration>

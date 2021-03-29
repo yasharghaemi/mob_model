@@ -1,0 +1,13 @@
+<nodes>
+    <node id="IN0" x="0" y="0" type="priority"/>
+    <node id="IN1" x="0" y="500" type="priority"/>
+    <node id="IN2" x="0" y="1000" type="priority"/>
+
+    <node id="IN3" x="500" y="0" type="priority"/>
+    <node id="IN4" x="500" y="1000" type="priority"/>
+
+    <node id="IN5" x="1000" y="0" type="priority"/>
+    <node id="IN6" x="1000" y="500" type="priority"/>
+    <node id="IN7" x="1000" y="1000" type="priority"/>
+
+</nodes>
